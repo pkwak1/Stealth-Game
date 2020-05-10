@@ -28,3 +28,6 @@ Then we're good to go!
 Master is fine for now, b/c this is small and who knows if ppl are actually going to do stuff! 
 So branches are really only needed if there's work on the same scene / asset / etc.
 If there's a time where we need branches, that'd be cool. And I'd be happy to organize that.
+
+## TO DO / Design Doc
+https://docs.google.com/document/d/1V4gYW2ISciwfTqoc5W4GOgIH5JeAxyk9BhMzPCXtXrw/edit?usp=sharing
