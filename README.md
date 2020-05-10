@@ -10,15 +10,19 @@ https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-w
 2. Once Unity (Unity Hub preferred b/c can have different version. working on 2019.3.2f1) is installed
 https://unity3d.com/get-unity/download
 
-3. Git clone and make sure to have this setup 
-http://www.walterpalladino.com/adding-an-existing-unity-project-to-github/
-Try testing not to master, but with a branch.
-
-4. In the same link above: http://www.walterpalladino.com/adding-an-existing-unity-project-to-github/
+3. In the same link above: http://www.walterpalladino.com/adding-an-existing-unity-project-to-github/
 make sure that you follow <Update the Unity Project> chapter. It allows us to mess with the meta data 
 (meta data in unity is a big reason why unity projects in github break)
 
 Then we're good to go!
+
+## Git Cloning Unity Now After Above Setup
+1. Git clone to wherever you want locally
+
+2. Go to Unity Hub and press the 'Add' button in the 'Projects' tab\
+- Navigate to where you git cloned the project locally
+
+3. Open! And check out everything
 
 ## Workflow
 Master is fine for now, b/c this is small and who knows if ppl are actually going to do stuff! 
