@@ -2,6 +2,7 @@
 Goal: <Insert shitty witty thing here about theme of game>
 
 ## Setup Unity Instructions (CRUCIAL/MUST/CANNOT INTERACT WITH REPO UNLESS THESE ARE DONE)
+## (5/12 IGNORE THIS ACTUALLY. IF YOU JUST GIT CLONE CORRECTLY, CHECK IF THESE THINGS ARE IN YOUR PROJECT (SHOULD BE) AND YOU'RE GOOD
 1. Make sure since we're cross platform to go through these things:
 CRUCIAL
 https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
