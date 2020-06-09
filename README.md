@@ -1,5 +1,5 @@
-# WFH-Stealth
-Goal: <Insert shitty witty thing here about theme of game>
+# WTH (Top Down 2d stealth game)
+Goal: Get out of there! @.@
 
 ## Setup Unity Instructions (CRUCIAL/MUST/CANNOT INTERACT WITH REPO UNLESS THESE ARE DONE)
 ## (5/12 IGNORE THIS ACTUALLY. IF YOU JUST GIT CLONE CORRECTLY, CHECK IF THESE THINGS ARE IN YOUR PROJECT (SHOULD BE) AND YOU'RE GOOD
